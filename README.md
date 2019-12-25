@@ -1,4 +1,4 @@
-This notebook contains the code for creating a siamese neural network in keras.
+This notebook demonstrates the development of a siamese neural network used for facial identification.
 
 It was trained with 10 datasets (LFW, FERET, AT&T...) and tested with 1 dataset (MUCT), resulting in more then 700,000 images (350,000 pairs).
 
